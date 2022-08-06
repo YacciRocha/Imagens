@@ -31,12 +31,12 @@ Projeto Integrador - Squad Amazonas - Digital House Brasil - Programação Full 
 
 ## 📋 Pré-requisitos
 Para executar o projeto, será necessário instalar os seguintes programas:
-**JDK 11**
-**Spring Boot**
-**Angular**
-**Eclipse**
-**VS Code**
-**MySQL**
+* **JDK 11**
+* **Spring Boot**
+* **Angular**
+* **Eclipse**
+* **VS Code**
+* **MySQL**
 
 ## 🔧 Começando
 
@@ -59,36 +59,36 @@ Siga as instruções:
 
 * Abra o código da API na sua IDE de preferência.
 
-*Para que o projeto rode com sucesso, é necessário rodar o comando clean e install do maven, devido o uso da lib do mapstruct para o mapeamento. 
+* Para que o projeto rode com sucesso, é necessário rodar o comando clean e install do maven, devido o uso da lib do mapstruct para o mapeamento. 
  
 ```
 mvn clean install
 ```
 
- *O comando irá baixar todas as dependências do projeto e criar um diretório target com os artefatos construídos, que incluem o arquivo jar do projeto. Além disso, serão executados os testes unitários, e se algum falhar, o Maven exibirá essa informação no console.*
+ * O comando irá baixar todas as dependências do projeto e criar um diretório target com os artefatos construídos, que incluem o arquivo jar do projeto. Além disso, serão executados os testes unitários, e se algum falhar, o Maven exibirá essa informação no console.*
 
- *Em seguida já é possível rodar a aplicação spring, através do comando: 
+ * Em seguida já é possível rodar a aplicação spring, através do comando: 
  
  ```
  Run As: Spring Boot App.
  ```
 
-*Com a API de pé, já é possível fazer testes de funcionamento via postman. 
+* Com a API de pé, já é possível fazer testes de funcionamento via postman. 
 
-*Para ter acesso ao sistema completo, é necessário também subir a aplicação do Angular, para isso, siga as seguintes instruções:*
+* Para ter acesso ao sistema completo, é necessário também subir a aplicação do Angular, para isso, siga as seguintes instruções: *
 
-*Abra o código angular em sua IDE de preferência.
+* Abra o código angular em sua IDE de preferência.
 
-*No console do node, rode o comando npm install, para gerar o arquivo de node_modules e assim, o aplicativo funcionar corretamente.
+* No console do node, rode o comando npm install, para gerar o arquivo de node_modules e assim, o aplicativo funcionar corretamente.
 ```
 npm install
 ```
- *Em seguida, rode o comando ng serve, o sistema rodará na porta 4200.
+ * Em seguida, rode o comando ng serve, o sistema rodará na porta 4200.
 ```
 ng serve
 ```
  
-*Para ter acesso, abra o caminho localhost:4200 no browser. 
+* Para ter acesso, abra o caminho localhost:4200 no browser. 
 
 
 ## 🚀 Tecnologias utilizadas
@@ -113,7 +113,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 * **Figma** - Editor de prototipagem
 
 ## ✒️ Autoras
-* **Naara Marinheiro** - [Git Hub - ](https://github.com/NaaraMarinheiro)  | [Linkedin - ](https://www.linkedin.com/in/naaramarinheiro/)
-* **Pamela Guerra** - [Git Hub -](https://github.com/Pam-Guerra)  |  [Linkedin - ]()
-* **Viviane Mayumi** - [Git Hub -](https://github.com/VivianeMayumi) |  [Linkedin - ]()
-* **Yacci Rocha** -  [Git Hub -](https://github.com/YacciRocha) |  [Linkedin - ]()
+* **Naara Marinheiro** - [Git Hub  ](https://github.com/NaaraMarinheiro)  | [Linkedin ](https://www.linkedin.com/in/naaramarinheiro/)
+* **Pamela Guerra** - [Git Hub ](https://github.com/Pam-Guerra)  |  [Linkedin  ](https://www.linkedin.com/in/pamela-guerra-a3a29b230/)
+* **Viviane Mayumi** - [Git Hub ](https://github.com/VivianeMayumi) |  [Linkedin](https://www.linkedin.com/in/viviane-mayumi-ogusko-saitou-67465418a/)
+* **Yacci Rocha** -  [Git Hub ](https://github.com/YacciRocha) |  [Linkedin](https://www.linkedin.com/in/yacci-da-rocha-sousa-9b0342149/)
