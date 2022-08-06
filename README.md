@@ -1,7 +1,7 @@
 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
-# Preservação de Quelônios - Quelofy🐢
+<h1 align ="center" >Preservação de Quelônios - Quelofy🐢</h1>
 
 <p align ="center"><img src = "logo.png" ></p>
 
