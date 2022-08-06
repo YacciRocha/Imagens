@@ -56,9 +56,9 @@ Para clonar o repositório do frontend:
 ## 🛠️ Construção
 
 Siga as instruções:
-. Abra o código da API na sua IDE de preferência.
+.Abra o código da API na sua IDE de preferência.
 
-. Para que o projeto rode com sucesso, é necessário rodar o comando clean e install do maven, devido o uso da lib do mapstruct para o mapeamento.
+.Para que o projeto rode com sucesso, é necessário rodar o comando clean e install do maven, devido o uso da lib do mapstruct para o mapeamento.
  
  
 ```
@@ -67,28 +67,28 @@ mvn clean install
 
  *O comando irá baixar todas as dependências do projeto e criar um diretório target com os artefatos construídos, que incluem o arquivo jar do projeto. Além disso, serão executados os testes unitários, e se algum falhar, o Maven exibirá essa informação no console.*
 
- . Em seguida já é possível rodar a aplicação spring, através do comando: 
+ .Em seguida já é possível rodar a aplicação spring, através do comando: 
  
  ```
  Run As: Spring Boot App.
  ```
 
-. Com a API de pé, já é possível fazer testes de funcionamento via postman. 
+.Com a API de pé, já é possível fazer testes de funcionamento via postman. 
 
 Para ter acesso ao sistema completo, é necessário também subir a aplicação do Angular, para isso, siga as seguintes instruções:
 
-. Abra o código angular em sua IDE de preferência.
+.Abra o código angular em sua IDE de preferência.
 
-. No console do node, rode o comando npm install, para gerar o arquivo de node_modules e assim, o aplicativo funcionar corretamente.
+.No console do node, rode o comando npm install, para gerar o arquivo de node_modules e assim, o aplicativo funcionar corretamente.
 ```
 npm install
 ```
- . Em seguida, rode o comando ng serve, o sistema rodará na porta 4200.
+ .Em seguida, rode o comando ng serve, o sistema rodará na porta 4200.
 ```
 ng serve
 ```
  
-. Para ter acesso, abra o caminho localhost:4200 no browser. 
+.Para ter acesso, abra o caminho localhost:4200 no browser. 
 
 
 ## 🚀 Tecnologias utilizadas
@@ -113,7 +113,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 * **Figma** - Editor de prototipagem
 
 ## ✒️ Autoras
-* **Naara Marinheiro** - [Git Hub - Naara Marinheiro](https://github.com/NaaraMarinheiro), [Linkedin](https://www.linkedin.com/in/naaramarinheiro/)
-* **Pamela Guerra** - [Pamela Guerra](https://github.com/Pam-Guerra)
-* **Viviane Mayumi** - [Viviane Mayumi](https://github.com/VivianeMayumi)
-* **Yacci Rocha** -  [Yacci Rocha](https://github.com/YacciRocha)
+* **Naara Marinheiro** - [Git Hub - ](https://github.com/NaaraMarinheiro)  | [Linkedin - ](https://www.linkedin.com/in/naaramarinheiro/)
+* **Pamela Guerra** - [Git Hub -](https://github.com/Pam-Guerra)  |  [Linkedin - ]()
+* **Viviane Mayumi** - [Git Hub -](https://github.com/VivianeMayumi) |  [Linkedin - ]()
+* **Yacci Rocha** -  [Git Hub -](https://github.com/YacciRocha) |  [Linkedin - ]()
