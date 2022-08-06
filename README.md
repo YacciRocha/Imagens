@@ -43,11 +43,15 @@ Para executar o projeto, será necessário instalar os seguintes programas:
 Para execução do projeto na máquina local, clone o repositório da API e também o repositório do front-end, que se encontra aqui: https://github.com/NaaraMarinheiro/Preservacao-de-Quelonios-front, em um repositório de sua preferência.
 
 Para clonar este repositório:
+
 cd "repositorio de sua preferencia"
+
 git clone https://github.com/YacciRocha/Preservacao-de-Quelonios.git
 
 Para clonar o repositório do frontend:
+
 cd "repositorio de sua preferencia"
+
 git clone https://github.com/NaaraMarinheiro/Preservacao-de-Quelonios-front.git
 
 
