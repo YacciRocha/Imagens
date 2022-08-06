@@ -26,7 +26,7 @@ Projeto Integrador - Squad Amazonas - Digital House Brasil - Programação Full 
 
 **Geração de relatórios** - gerar relatórios em pdf, com os dados de cada fase do projeto, facilitando assim, a manipulação individual das informações relevantes de cada etapa.
 
-## 📊 Diagrama de classes 
+## 📊 Diagrama de classe
 <p align ="center"><img src = Diagrama_classe.png ></p>
 
 ## 📋 Pré-requisitos
