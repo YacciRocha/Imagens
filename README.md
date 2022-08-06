@@ -7,14 +7,15 @@ Imagens para o repositorio do PI
 
 <!-- Imagem da logo aqui -->
 
-##🔖  Sobre
+## 🔖  Sobre
+
 O projeto Preservação de Quelônios é uma aplicação de Gerenciamento de Dados que está sendo desenvolvida dentro do curso Full-Stack Java/Angular, no contexto do programa Transforme-se - Serasa Experian. O intuito é colocar em prática todo o conteúdo estudado, e auxiliar o Projeto Pé-de-Pincha através da tecnologia. O projeto Pé-de-Pincha é um programa de extensão da Universidade Federal do Amazonas que promove a pesquisa, a conservação e o manejo sustentável de quelônios em comunidades ribeirinhas da região amazônica.
 O desenvolvimento das funcionalidades foi construído de acordo com a necessidade melhorar  a coleta de dados, feita pelos voluntários do Projeto Pé-De-Pincha durante o período de realização das viagens, nas comunidades participantes.
 
 
 Projeto Integrador - Squad Amazonas - Digital House Brasil - Programação Full Stack (Java e Angular) - Transforme-se Serasa Experian
 
-##💻 Funcionalidades
+## 💻 Funcionalidades
 **Inserção de ciclos** - cadastrar o ciclo que contemplará as três viagens realizadas durante o tempo de execução do projeto,  referente a cada etapa exercida, coleta, eclosão e soltura.
 
 **Inserção de viagens** - cadastrar cada viagem, de acordo com o calendário de programação do projeto e de acordo com a etapa a ser realizada.
@@ -25,10 +26,10 @@ Projeto Integrador - Squad Amazonas - Digital House Brasil - Programação Full 
 
 **Geração de relatórios** - gerar relatórios em pdf, com os dados de cada fase do projeto, facilitando assim, a manipulação individual das informações relevantes de cada etapa.
 
-##📊 Diagrama de classes 
+## 📊 Diagrama de classes 
 <p align ="center"><img src = Diagrama_classe.png ></p>
 
-##📋 Pré-requisitos
+## 📋 Pré-requisitos
 Para executar o projeto, será necessário instalar os seguintes programas:
 **JDK 11**
 **Spring Boot**
@@ -37,7 +38,7 @@ Para executar o projeto, será necessário instalar os seguintes programas:
 **VS Code**
 **MySQL**
 
-##🔧 Começando
+## 🔧 Começando
 
 Para execução do projeto na máquina local, clone o repositório da API e também o repositório do front-end, que se encontra aqui: https://github.com/NaaraMarinheiro/Preservacao-de-Quelonios-front, em um repositório de sua preferência.
 
@@ -50,12 +51,12 @@ cd "repositorio de sua preferencia"
 git clone https://github.com/NaaraMarinheiro/Preservacao-de-Quelonios-front.git
 
 
-##🛠️ Construção
+## 🛠️ Construção
 
 Siga as instruções:
 Abra o código da API na sua IDE de preferência.
 
- Para que o projeto rode com sucesso, é necessário rodar o comando clean e install do maven, devido o uso da lib do mapstruct para o mapeamento.
+Para que o projeto rode com sucesso, é necessário rodar o comando clean e install do maven, devido o uso da lib do mapstruct para o mapeamento.
  
  
 ```
@@ -88,11 +89,7 @@ ng serve
 Para ter acesso, abra o caminho localhost:4200 no browser. 
 
 
-
-
-
-
-##🚀 Tecnologias utilizadas
+## 🚀 Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
