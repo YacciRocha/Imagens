@@ -44,23 +44,21 @@ Para execução do projeto na máquina local, clone o repositório da API e tamb
 
 Para clonar este repositório:
 
-cd "repositorio de sua preferencia"
-
-git clone https://github.com/YacciRocha/Preservacao-de-Quelonios.git
+* cd "repositorio de sua preferencia"
+* git clone https://github.com/YacciRocha/Preservacao-de-Quelonios.git
 
 Para clonar o repositório do frontend:
 
-cd "repositorio de sua preferencia"
-
-git clone https://github.com/NaaraMarinheiro/Preservacao-de-Quelonios-front.git
+* cd "repositorio de sua preferencia"
+* git clone https://github.com/NaaraMarinheiro/Preservacao-de-Quelonios-front.git
 
 
 ## 🛠️ Construção
 
 Siga as instruções:
-Abra o código da API na sua IDE de preferência.
+. Abra o código da API na sua IDE de preferência.
 
-Para que o projeto rode com sucesso, é necessário rodar o comando clean e install do maven, devido o uso da lib do mapstruct para o mapeamento.
+. Para que o projeto rode com sucesso, é necessário rodar o comando clean e install do maven, devido o uso da lib do mapstruct para o mapeamento.
  
  
 ```
@@ -69,28 +67,28 @@ mvn clean install
 
  *O comando irá baixar todas as dependências do projeto e criar um diretório target com os artefatos construídos, que incluem o arquivo jar do projeto. Além disso, serão executados os testes unitários, e se algum falhar, o Maven exibirá essa informação no console.*
 
- Em seguida já é possível rodar a aplicação spring, através do comando: 
+ . Em seguida já é possível rodar a aplicação spring, através do comando: 
  
  ```
  Run As: Spring Boot App.
  ```
 
-Com a API de pé, já é possível fazer testes de funcionamento via postman. 
+. Com a API de pé, já é possível fazer testes de funcionamento via postman. 
 
 Para ter acesso ao sistema completo, é necessário também subir a aplicação do Angular, para isso, siga as seguintes instruções:
 
-Abra o código angular em sua IDE de preferência.
+. Abra o código angular em sua IDE de preferência.
 
-No console do node, rode o comando npm install, para gerar o arquivo de node_modules e assim, o aplicativo funcionar corretamente.
+. No console do node, rode o comando npm install, para gerar o arquivo de node_modules e assim, o aplicativo funcionar corretamente.
 ```
 npm install
 ```
- Em seguida, rode o comando ng serve, o sistema rodará na porta 4200.
+ . Em seguida, rode o comando ng serve, o sistema rodará na porta 4200.
 ```
 ng serve
 ```
  
-Para ter acesso, abra o caminho localhost:4200 no browser. 
+. Para ter acesso, abra o caminho localhost:4200 no browser. 
 
 
 ## 🚀 Tecnologias utilizadas
