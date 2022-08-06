@@ -9,11 +9,11 @@
 
 ## 🔖  Sobre
 
-O projeto Preservação de Quelônios é uma aplicação de Gerenciamento de Dados que está sendo desenvolvida dentro do curso Full-Stack Java/Angular, no contexto do programa Transforme-se - Serasa Experian. O intuito é colocar em prática todo o conteúdo estudado, e auxiliar o Projeto Pé-de-Pincha através da tecnologia. O projeto Pé-de-Pincha é um programa de extensão da Universidade Federal do Amazonas que promove a pesquisa, a conservação e o manejo sustentável de quelônios em comunidades ribeirinhas da região amazônica.
+<p>O projeto Preservação de Quelônios é uma aplicação de Gerenciamento de Dados que está sendo desenvolvida dentro do curso Full-Stack Java/Angular, no contexto do programa Transforme-se - Serasa Experian. O intuito é colocar em prática todo o conteúdo estudado, e auxiliar o Projeto Pé-de-Pincha através da tecnologia. O projeto Pé-de-Pincha é um programa de extensão da Universidade Federal do Amazonas que promove a pesquisa, a conservação e o manejo sustentável de quelônios em comunidades ribeirinhas da região amazônica.
 O desenvolvimento das funcionalidades foi construído de acordo com a necessidade melhorar  a coleta de dados, feita pelos voluntários do Projeto Pé-De-Pincha durante o período de realização das viagens, nas comunidades participantes.
 
 
-Projeto Integrador - Squad Amazonas - Digital House Brasil - Programação Full Stack (Java e Angular) - Transforme-se Serasa Experian
+Projeto Integrador - Squad Amazonas - Digital House Brasil - Programação Full Stack (Java e Angular) - Transforme-se Serasa Experian</p>
 
 ## 💻 Funcionalidades
 **Inserção de ciclos** - cadastrar o ciclo que contemplará as três viagens realizadas durante o tempo de execução do projeto,  referente a cada etapa exercida, coleta, eclosão e soltura.
@@ -47,7 +47,7 @@ Para clonar este repositório:
 * cd "repositorio de sua preferencia"
 * git clone https://github.com/YacciRocha/Preservacao-de-Quelonios.git
 
-Para clonar o repositório do frontend:
+Para clonar o repositório do front-end:
 
 * cd "repositorio de sua preferencia"
 * git clone https://github.com/NaaraMarinheiro/Preservacao-de-Quelonios-front.git
