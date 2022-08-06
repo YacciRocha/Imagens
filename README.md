@@ -40,7 +40,7 @@ Para executar o projeto, será necessário instalar os seguintes programas:
 
 ## 🔧 Começando
 
-Para execução do projeto na máquina local, clone o repositório da API e também o repositório do front-end, que se encontra aqui: https://github.com/NaaraMarinheiro/Preservacao-de-Quelonios-front, em um repositório de sua preferência.
+Para execução do projeto na máquina local, clone o repositório da API e também o repositório do front-end, que se encontra [aqui]( https://github.com/NaaraMarinheiro/Preservacao-de-Quelonios-front), em um repositório de sua preferência.
 
 Para clonar este repositório:
 
@@ -97,25 +97,25 @@ Para ter acesso, abra o caminho localhost:4200 no browser.
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-**Java** - Desenvolvimento do back-end (versão 11)
-**Spring** - Desenvolvimento do back-end (versão 2.7.0)
-**Mapstruct** - Mapeamento do back-end (versão 1.5)
-**Lombok** - Lib de Java (versão 1.18)
-**JasperReports** - Api externa - geração de pdf (versão 6.19.1)
-**MySQL**- Banco de dados (versão 8.0)
+* **Java** - Desenvolvimento do back-end (versão 11)
+* **Spring** - Desenvolvimento do back-end (versão 2.7.0)
+* **Mapstruct** - Mapeamento do back-end (versão 1.5)
+* **Lombok** - Lib de Java (versão 1.18)
+* **JasperReports** - Api externa - geração de pdf (versão 6.19.1)
+* **MySQL**- Banco de dados (versão 8.0)
 
-**Typescript** - Desenvolvimento do front-end
-**Angular**  - Desenvolvimento do front-end (versão 14)
-**HTML5** - Desenvolvimento do front-end
-**CSS3** - Desenvolvimento do front-end
-**Bootstrap** - Framework do front-end ( versão 5)
-**Axios** - Cliente http baseado em promessas (versão 0.27)
-**Chart.js** - Lib de gráficos (versão 3.8)
-**Toastr-ngx** - Exibição de notificações (versão 15)
-**Figma** - Editor de prototipagem
+* **Typescript** - Desenvolvimento do front-end
+* **Angular**  - Desenvolvimento do front-end (versão 14)
+* **HTML5** - Desenvolvimento do front-end
+* **CSS3** - Desenvolvimento do front-end
+* **Bootstrap** - Framework do front-end ( versão 5)
+* **Axios** - Cliente http baseado em promessas (versão 0.27)
+* **Chart.js** - Lib de gráficos (versão 3.8)
+* **Toastr-ngx** - Exibição de notificações (versão 15)
+* **Figma** - Editor de prototipagem
 
 ## ✒️ Autoras
-* **Naara Marinheiro** - [Naara Marinheiro](https://github.com/NaaraMarinheiro)
+* **Naara Marinheiro** - [Git Hub - Naara Marinheiro](https://github.com/NaaraMarinheiro), [Linkedin](https://www.linkedin.com/in/naaramarinheiro/)
 * **Pamela Guerra** - [Pamela Guerra](https://github.com/Pam-Guerra)
 * **Viviane Mayumi** - [Viviane Mayumi](https://github.com/VivianeMayumi)
 * **Yacci Rocha** -  [Yacci Rocha](https://github.com/YacciRocha)
