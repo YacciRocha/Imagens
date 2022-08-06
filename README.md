@@ -1,11 +1,11 @@
-# Imagens
-Imagens para o repositorio do PI
+
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
-#Preservação de Quelônios - Quelofy🐢
+
+# Preservação de Quelônios - Quelofy🐢
 
 <p align ="center"><img src = "logo1-grande.png" ></p>
 
-<!-- Imagem da logo aqui -->
+
 
 ## 🔖  Sobre
 
