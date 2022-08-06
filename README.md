@@ -110,7 +110,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 **Toastr-ngx** - Exibição de notificações (versão 15)
 **Figma** - Editor de prototipagem
 
-##✒️ Autoras
+## ✒️ Autoras
 * **Naara Marinheiro** - [Naara Marinheiro](https://github.com/NaaraMarinheiro)
 * **Pamela Guerra** - [Pamela Guerra](https://github.com/Pam-Guerra)
 * **Viviane Mayumi** - [Viviane Mayumi](https://github.com/VivianeMayumi)
