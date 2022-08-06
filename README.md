@@ -3,7 +3,7 @@
 
 # Preservação de Quelônios - Quelofy🐢
 
-<p align ="center"><img src = "logo fundo branco.png" ></p>
+<p align ="center"><img src = "logo.png" ></p>
 
 
 
