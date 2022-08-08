@@ -75,7 +75,7 @@ mvn clean install
 
 * Com a API de pé, já é possível fazer testes de funcionamento via postman. 
 
-* Para ter acesso ao sistema completo, é necessário também subir a aplicação do Angular, para isso, siga as seguintes instruções:*
+*Para ter acesso ao sistema completo, é necessário também subir a aplicação do Angular, para isso, siga as seguintes instruções:*
 
 * Abra o código angular em sua IDE de preferência.
 
