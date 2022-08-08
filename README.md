@@ -3,7 +3,7 @@
 
 <h1 align ="center" >Preservação de Quelônios - Quelofy🐢</h1>
 
-<p align ="center"><img src ="logo-quelofy.png" ></p>
+<p align ="center"><img whidth= "100" heigth="100" src ="logo-quelofy.png" ></p>
 
 
 
