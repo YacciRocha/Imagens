@@ -95,24 +95,17 @@ ng serve
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-* **Java** - Desenvolvimento do back-end (versão 11)
-* **Spring** - O framework web usado (versão 2.7.0)
-* **Mapstruct** - Mapeamento do back-end (versão 1.5)
-* **Lombok** - Lib de Java (versão 1.18)
-* **JasperReports** - Api externa - geração de pdf (versão 6.19.1)
-* **MySQL**- Banco de dados (versão 8.0)
-* **Postman** - API Client para testes 
-* **Swagger** - Documentação
-
-* **Typescript** - Desenvolvimento do front-end
-* **Angular**  - Desenvolvimento do front-end (versão 14)
-* **HTML5** - Desenvolvimento do front-end
-* **CSS3** - Desenvolvimento do front-end
-* **Bootstrap** - Framework do front-end ( versão 5)
-* **Axios** - Cliente http baseado em promessas (versão 0.27)
-* **Chart.js** - Lib de gráficos (versão 3.8)
-* **Toastr-ngx** - Exibição de notificações (versão 15)
-* **Figma** - Editor de prototipagem
+| Tecnologia Back-end 	| Utilização                                   	| Tecnologia Front-end 	| Utilização                                      	|
+|---------------------	|----------------------------------------------	|----------------------	|-------------------------------------------------	|
+| **Java**            	| Desenvolvimento do back-end (versão 11)      	| **Typescript**       	| Desenvolvimento do front-end                    	|
+| **Spring**          	| O framework web usado (versão 2.7.0)         	| **Angular**          	| Desenvolvimento do front-end (versão 14)        	|
+| **Mapstruct**       	| Mapeamento do back-end (versão 1.5)          	| **HTML5**            	| Desenvolvimento do front-end                    	|
+| **Lombok**          	| Lib de Java (versão 1.18)                    	| **CSS3**             	| Desenvolvimento do front-end                    	|
+| **JasperReports**   	| Api externa - geração de pdf (versão 6.19.1) 	| **Bootstrap**        	| Framework do front-end ( versão 5)              	|
+| **MySQL**           	| Banco de dados (versão 8.0)                  	| **Axios**            	| Cliente http baseado em promessas (versão 0.27) 	|
+| **Postman**         	| API Client para testes                       	| **Chart.js**         	| Lib de gráficos (versão 3.8)                    	|
+| **Swagger**         	| Documentação                                 	| **Toastr-ngx**       	| Exibição de notificações (versão 15)            	|
+|                     	|                                              	| **Figma**            	| Editor de prototipagem                          	|
 
 ## ✒️ Autoras
 * **Naara Marinheiro** - [Github](https://github.com/NaaraMarinheiro)  | [Linkedin ](https://www.linkedin.com/in/naaramarinheiro/)
