@@ -3,7 +3,7 @@
 
 <h1 align ="center" >Preservação de Quelônios - Quelofy🐢</h1>
 
-<p align ="center"><img src = "logo.png" ></p>
+<p align ="center"><img src ="logo-quelofy.png" ></p>
 
 
 
@@ -27,7 +27,7 @@ Projeto Integrador - Squad Amazonas - Digital House Brasil - Programação Full 
 **Geração de relatórios** - gerar relatórios em pdf, com os dados de cada fase do projeto, facilitando assim, a manipulação individual das informações relevantes de cada etapa.
 
 ## 📊 Diagrama de classe
-<p align ="center"><img src = Diagrama_classe.png ></p>
+<p align ="center"><img src = "diagrama-de-classe.png" ></p>
 
 ## 📋 Pré-requisitos
 Para executar o projeto, será necessário instalar os seguintes programas:
@@ -75,7 +75,7 @@ mvn clean install
 
 * Com a API de pé, já é possível fazer testes de funcionamento via postman. 
 
-* Para ter acesso ao sistema completo, é necessário também subir a aplicação do Angular, para isso, siga as seguintes instruções: *
+* Para ter acesso ao sistema completo, é necessário também subir a aplicação do Angular, para isso, siga as seguintes instruções:*
 
 * Abra o código angular em sua IDE de preferência.
 
@@ -96,11 +96,13 @@ ng serve
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 * **Java** - Desenvolvimento do back-end (versão 11)
-* **Spring** - Desenvolvimento do back-end (versão 2.7.0)
+* **Spring** - O framework web usado (versão 2.7.0)
 * **Mapstruct** - Mapeamento do back-end (versão 1.5)
 * **Lombok** - Lib de Java (versão 1.18)
 * **JasperReports** - Api externa - geração de pdf (versão 6.19.1)
 * **MySQL**- Banco de dados (versão 8.0)
+* **Postman** - API Client para testes 
+* **Swagger** - Documentação
 
 * **Typescript** - Desenvolvimento do front-end
 * **Angular**  - Desenvolvimento do front-end (versão 14)
@@ -113,7 +115,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 * **Figma** - Editor de prototipagem
 
 ## ✒️ Autoras
-* **Naara Marinheiro** - [Git Hub  ](https://github.com/NaaraMarinheiro)  | [Linkedin ](https://www.linkedin.com/in/naaramarinheiro/)
-* **Pamela Guerra** - [Git Hub ](https://github.com/Pam-Guerra)  |  [Linkedin  ](https://www.linkedin.com/in/pamela-guerra-a3a29b230/)
-* **Viviane Mayumi** - [Git Hub ](https://github.com/VivianeMayumi) |  [Linkedin](https://www.linkedin.com/in/viviane-mayumi-ogusko-saitou-67465418a/)
-* **Yacci Rocha** -  [Git Hub ](https://github.com/YacciRocha) |  [Linkedin](https://www.linkedin.com/in/yacci-da-rocha-sousa-9b0342149/)
+* **Naara Marinheiro** - [Github](https://github.com/NaaraMarinheiro)  | [Linkedin ](https://www.linkedin.com/in/naaramarinheiro/)
+* **Pamela Guerra** - [Github ](https://github.com/Pam-Guerra)  |  [Linkedin  ](https://www.linkedin.com/in/pamela-guerra-a3a29b230/)
+* **Viviane Mayumi** - [Github](https://github.com/VivianeMayumi) |  [Linkedin](https://www.linkedin.com/in/viviane-mayumi-ogusko-saitou-67465418a/)
+* **Yacci Rocha** -  [Github](https://github.com/YacciRocha) |  [Linkedin](https://www.linkedin.com/in/yacci-da-rocha-sousa-9b0342149/)
