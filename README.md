@@ -9,7 +9,8 @@
 
 ## 🔖  Sobre
 
-<p>O projeto Preservação de Quelônios é uma aplicação de Gerenciamento de Dados que está sendo desenvolvida dentro do curso Full-Stack Java/Angular, no contexto do programa Transforme-se - Serasa Experian. O intuito é colocar em prática todo o conteúdo estudado, e auxiliar o Projeto Pé-de-Pincha através da tecnologia. O projeto Pé-de-Pincha é um programa de extensão da Universidade Federal do Amazonas que promove a pesquisa, a conservação e o manejo sustentável de quelônios em comunidades ribeirinhas da região amazônica.
+<p>O projeto Preservação de Quelônios é uma aplicação de Gerenciamento de Dados que está sendo desenvolvida dentro do curso Full-Stack Java/Angular, no contexto do programa Transforme-se - Serasa Experian. O intuito é colocar em prática todo o conteúdo estudado, e auxiliar o Projeto Pé-de-Pincha através da tecnologia.
+O projeto Pé-de-Pincha é um programa de extensão da Universidade Federal do Amazonas que promove a pesquisa, a conservação e o manejo sustentável de quelônios em comunidades ribeirinhas da região amazônica.
 O desenvolvimento das funcionalidades foi construído de acordo com a necessidade melhorar  a coleta de dados, feita pelos voluntários do Projeto Pé-De-Pincha durante o período de realização das viagens, nas comunidades participantes.
 
 
@@ -27,7 +28,7 @@ Projeto Integrador - Squad Amazonas - Digital House Brasil - Programação Full 
 **Geração de relatórios** - gerar relatórios em pdf, com os dados de cada fase do projeto, facilitando assim, a manipulação individual das informações relevantes de cada etapa.
 
 ## 📊 Diagrama de classe
-<p align ="center"><img src = "diagrama-de-classe.png" ></p>
+<p align ="center"><img src = "diagrama-de-classe.png" height="800" width="800" ></p>
 
 ## 📋 Pré-requisitos
 Para executar o projeto, será necessário instalar os seguintes programas:
@@ -83,29 +84,29 @@ mvn clean install
 ```
 npm install
 ```
- * Em seguida, rode o comando ng serve, o sistema rodará na porta 4200.
+ * Em seguida, rode o comando ng serve para subir a aplicação, o sistema rodará na porta 4200.
 ```
 ng serve
 ```
  
-* Para ter acesso, abra o caminho localhost:4200 no browser. 
+* Para ter acesso, abra o caminho **localhost:4200** no browser. 
 
 
 ## 🚀 Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-| Tecnologia  Back-end 	 | Utilização                                   	| Tecnologia  Front-end 	 | Utilização                                      	|
-|:--------------------:	 |----------------------------------------------	|-----------------------	 |-------------------------------------------------	|
-| **Java**             	 | Desenvolvimento do back-end (versão 11)      	| **Typescript**        	 | Desenvolvimento do front-end                    	|
-| **Spring**           	 | O framework web usado (versão 2.7.0)         	| **Angular**           	 | Desenvolvimento do front-end (versão 14)        	|
-| **Mapstruct**         	| Mapeamento do back-end (versão 1.5)          	| **HTML5**             	 | Desenvolvimento do front-end                    	|
-| **Lombok**            	| Lib de Java (versão 1.18)                    	| **CSS3**              	 | Desenvolvimento do front-end                    	|
-| **JasperReports**     	| Api externa - geração de pdf (versão 6.19.1) 	| **Bootstrap**          	| Framework do front-end ( versão 5)              	|
-| **MySQL**             	| Banco de dados (versão 8.0)                  	| **Axios**              	| Cliente http baseado em promessas (versão 0.27) 	|
-| **Postman**           	| API Client para testes                       	| **Chart.js**           	| Lib de gráficos (versão 3.8)                    	|
-| **Swagger**           	| Documentação                                 	| **Toastr-ngx**         	| Exibição de notificações (versão 15)            	|
-|                      	 |                                              	| **Figma**              	| Editor de prototipagem                          	|
+|    Tecnologia     	|            Utilização no Back-end            	|   Tecnologia   	|             Utilização no Front-end             	|
+|:-----------------:	|:--------------------------------------------:	|:--------------:	|:-----------------------------------------------:	|
+| **Java**          	| Desenvolvimento do back-end (versão 11)      	| **Typescript** 	| Desenvolvimento do front-end                    	|
+| **Spring**        	| O framework web usado (versão 2.7.0)         	| **Angular**    	| Desenvolvimento do front-end (versão 14)        	|
+| **Mapstruct**     	| Mapeamento do back-end (versão 1.5)          	| **HTML5**      	| Desenvolvimento do front-end                    	|
+| **Lombok**        	| Lib de Java (versão 1.18)                    	| **CSS3**       	| Desenvolvimento do front-end                    	|
+| **JasperReports** 	| Api externa - geração de pdf (versão 6.19.1) 	| **Bootstrap**  	| Framework do front-end ( versão 5)              	|
+| **MySQL**         	| Banco de dados (versão 8.0)                  	| **Axios**      	| Cliente http baseado em promessas (versão 0.27) 	|
+| **Postman**       	| API Client para testes                       	| **Chart.js**   	| Lib de gráficos (versão 3.8)                    	|
+| **Swagger**       	| Documentação                                 	| **Toastr-ngx** 	| Exibição de notificações (versão 15)            	|
+|                   	|                                              	| **Figma**      	| Editor de prototipagem                          	|
 
 ## ✒️ Autoras
 * **Naara Marinheiro** - [Github](https://github.com/NaaraMarinheiro)  | [Linkedin ](https://www.linkedin.com/in/naaramarinheiro/)
