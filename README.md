@@ -1,5 +1,5 @@
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-57AFFC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-9BEF2.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2328f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-57AFFC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)   ![Eclipse](https://img.shields.io/badge/Eclipse-239.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2328f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 <h1 align ="center" >Preservação de Quelônios - Quelofy🐢</h1>
 
@@ -11,7 +11,7 @@
 
 <p>O projeto Preservação de Quelônios é uma aplicação de Gerenciamento de Dados que está sendo desenvolvida dentro do curso Full-Stack Java/Angular, no contexto do programa Transforme-se - Serasa Experian. O intuito é colocar em prática todo o conteúdo estudado, e auxiliar o Projeto Pé-de-Pincha através da tecnologia.
 O projeto Pé-de-Pincha é um programa de extensão da Universidade Federal do Amazonas que promove a pesquisa, a conservação e o manejo sustentável de quelônios em comunidades ribeirinhas da região amazônica.
-O desenvolvimento das funcionalidades foi construído de acordo com a necessidade de melhorar a coleta de dados, feita pelos voluntários do Programa Pé-De-Pincha durante o período de realização das viagens, nas comunidades participantes, com objetivo de facilitar o controle do programa.
+O desenvolvimento das funcionalidades foi construído de acordo com a necessidade de melhorar a coleta de dados, feita pelos voluntários do Programa Pé-De-Pincha durante o período de realização das viagens, com objetivo de facilitar o controle do programa.
 
 
 Projeto Integrador - Squad Amazonas - Digital House Brasil - Programação Full Stack (Java e Angular) - Transforme-se - Serasa Experian</p>
@@ -60,7 +60,7 @@ Siga as instruções:
 
 * Abra o código da API na sua IDE de preferência.
 
-* Para que o projeto rode com sucesso, é necessário rodar o comando clean e install do maven, devido o uso da lib do mapstruct para o mapeamento. 
+* Para que o projeto rode com sucesso, é necessário executar o comando clean e install do maven, devido ao uso da lib do mapstruct para o mapeamento. 
  
 ```
 mvn clean install
@@ -74,7 +74,7 @@ mvn clean install
  Run As: Spring Boot App.
  ```
 
-* Com a API de pé, já é possível fazer testes de funcionamento via postman. 
+* Com a API em execução, já é possível fazer testes de funcionamento via postman. 
 
 *Para ter acesso ao sistema completo, é necessário também subir a aplicação do Angular, para isso, siga as seguintes instruções:*
 
@@ -96,16 +96,16 @@ ng serve
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-|    Tecnologia     	|            Utilização no Back-end            	|   Tecnologia   	|             Utilização no Front-end             	|
+|    Tecnologia     	|                    Back-end                  	|   Tecnologia   	|                     Front-end                   	|
 |:-----------------:	|:--------------------------------------------:	|:--------------:	|:-----------------------------------------------:	|
-| **Java**          	| Desenvolvimento do back-end (versão 11)      	| **Typescript** 	| Desenvolvimento do front-end                    	|
-| **Spring**        	| O framework web usado (versão 2.7.0)         	| **Angular**    	| Desenvolvimento do front-end (versão 14)        	|
+| **Java**          	| Linguagem de programação (versão 11)         	| **Typescript** 	| Linguagem de programação                        	|
+| **Spring**        	| O framework web usado (versão 2.7.0)         	| **Angular**    	| Framework Javascript usado (versão 14)          	|
 | **Mapstruct**     	| Mapeamento do back-end (versão 1.5)          	| **HTML5**      	| Desenvolvimento do front-end                    	|
 | **Lombok**        	| Lib de Java (versão 1.18)                    	| **CSS3**       	| Desenvolvimento do front-end                    	|
 | **JasperReports** 	| Api externa - geração de pdf (versão 6.19.1) 	| **Bootstrap**  	| Framework do front-end ( versão 5)              	|
 | **MySQL**         	| Banco de dados (versão 8.0)                  	| **Axios**      	| Cliente http baseado em promessas (versão 0.27) 	|
-| **Postman**       	| API Client para testes                       	| **Chart.js**   	| Lib de gráficos (versão 3.8)                    	|
-| **Swagger**       	| Documentação                                 	| **Toastr-ngx** 	| Exibição de notificações (versão 15)            	|
+| **Postman**       	| API Client para testes (9.27)                	| **Chart.js**   	| Lib de gráficos (versão 3.8)                    	|
+| **Swagger**       	| Documentação da API                          	| **Toastr-ngx** 	| Exibição de notificações (versão 15)            	|
 |                   	|                                              	| **Figma**      	| Editor de prototipagem                          	|
 
 ## ✒️ Autoras
