@@ -114,14 +114,14 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 * **Viviane Mayumi** - [Github](https://github.com/VivianeMayumi) |  [Linkedin](https://www.linkedin.com/in/viviane-mayumi-ogusko-saitou-67465418a/)
 * **Yacci Rocha** -  [Github](https://github.com/YacciRocha) |  [Linkedin](https://www.linkedin.com/in/yacci-da-rocha-sousa-9b0342149/)
 
-## 📌 Tarefas em aberto
-Funcionalidades que ainda precisam ser implementadas na aplicação
+## 📌 Em construção
+Funcionalidades e correções previstas para o próximo release
 
 📝 Corrigir bug de validação do input de status no cadastro de usuário
 
-📝 Executar a possibilidade de edição de formulários
+📝 Criar a página  de edição de formulários
 
-📝 Executar a possibilidade de exclusão de ciclos, viagens e formulários
+📝 Analisar a integridade referencial do Banco de Dados para viabilizar exclusão de Ciclos e Viagens.
 
 📝 Fazer busca  de formulários por tipo, data e voluntário
 
